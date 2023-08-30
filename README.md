@@ -1,4 +1,3 @@
-# Exer-Python
 # Sobre
 
 Esse é um projeto de jogo simples de JoKenPo ou Pedra, Papel, Tesoura.
